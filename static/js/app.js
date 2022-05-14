@@ -24,7 +24,7 @@ function buildTable(data) {
 }
 
 // 1. Create a variable to keep track of all the filters as an object.
-let filters = {}; //"datetime","city","state","country","shape"};
+let filters = {}; 
 
 // 3. Use this function to update the filters. 
 function updateFilters() {
@@ -61,7 +61,7 @@ function updateFilters() {
   
     // 8. Set the filtered data to the tableData.
     let filteredData = tableData;
-    console.log("64")
+  
     console.log(filters)
   
     // 9. Loop through all of the filters and keep any data that
