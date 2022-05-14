@@ -7,9 +7,19 @@ The goal of this challenge was to create a "UFO Sightings" webpage (using HTML, 
 
 ## Results
 
+
+
 ## Summary
 
-Next steps for improvement:
+The webpage functions as intended to filter the dataset by the desired filters. However, its function could be improved to help the user navigate the page and understand the context of the filter results.
+
+### Drawbacks of the current version
+
+* The user does not know (except by browsing the complete dataset) which cities, states, shapes, etc. it is possible to filter by. If possible, it would be ideal to include a list of options under each filter (perhaps hidden until the user reveals them) so that the user can see what search options there are. Visualizations (for example, a heatmap) would also help the user understand trends.
+* The current version of these filters are case-sensitive, and the user must type search criteria in all lowercase. 
+
+### Recommendations for further development
 
 * Since the current version of this filter is case-sensitive, and all information in the data.js file is in lowercase text, we should add code in the app.js file to convert any user input to lowercase text in order to match the lowercase data.
+* 
 * 
