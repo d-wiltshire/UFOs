@@ -25,7 +25,7 @@ The webpage functions as intended to filter the dataset by the desired filters. 
 
 ### Drawbacks of the current version
 
-* The user does not know (except by browsing the complete dataset) which cities, states, shapes, etc. it is possible to filter by. If possible, it would be ideal to include a list of options under each filter (perhaps hidden until the user reveals them) so that the user can see what search options there are. Visualizations (for example, a heatmap) would also help the user understand trends.
+* The user does not know (except by browsing the complete dataset) which cities, states, shapes, etc. it is possible to filter by. It would be ideal to include a list of options under each filter (perhaps hidden until the user reveals them) so that the user can see what search options there are. Visualizations (for example, a heatmap) would also help the user understand trends.
 * The current version of these filters are case-sensitive, and the user must type search criteria in all lowercase. 
 
 ### Recommendations for further development
