@@ -7,6 +7,16 @@ The goal of this challenge was to create a "UFO Sightings" webpage (using HTML, 
 
 ## Results
 
+Using the search criteria to filter is a straightforward process. The user can input information into any (or all) of the available filters in order to filter the complete dataset by those criteria. The page will update when the user presses Enter. 
+
+For example, filtering by "ca" to find reports from California filters the dataset only by state:
+
+![Mod 11 CA](https://user-images.githubusercontent.com/100863488/168443496-aff13e96-1138-44a0-9bd8-9ee4561d1bb0.png)
+
+We can also add "light" to the "shape" filter to find reports from California that listed the object's shape as "light":
+
+![Mod 11 CA and light](https://user-images.githubusercontent.com/100863488/168443497-a90ce72e-97f7-4c9d-8a44-5d84273f0d53.png)
+
 
 
 ## Summary
