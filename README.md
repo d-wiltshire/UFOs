@@ -21,5 +21,5 @@ The webpage functions as intended to filter the dataset by the desired filters. 
 ### Recommendations for further development
 
 * Since the current version of this filter is case-sensitive, and all information in the data.js file is in lowercase text, we should add code in the app.js file to convert any user input to lowercase text in order to match the lowercase data.
-* 
-* 
+* It would be helpful to add groupings information or visualizations that would help the user see trends (for example, a timeline that might show clusters of reports). 
+* It would be helpful to add a filter based on keywords in the reported comments.
